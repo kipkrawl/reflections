@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
   a "meta data" file is created to change changes made to the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+  The staging are can hold multiple changes that can have different commits
