@@ -11,3 +11,10 @@ organized? How would branches help?
 
   When trying new functionality or experimenting.
   Allow to have simultaneous version working in parralel without impactin each other
+
+How do the diagrams help you visualize the branch structure?
+
+  The different branches can get complex very fast. Having a diagram of the
+  branches will ensure that all commits are reachable and you dont "dead-end"
+  any. The diagrams are critical to understand all branches as the git log
+  command wont show everything if there is not a parent commit that was created.
