@@ -18,3 +18,12 @@ How do the diagrams help you visualize the branch structure?
   branches will ensure that all commits are reachable and you dont "dead-end"
   any. The diagrams are critical to understand all branches as the git log
   command wont show everything if there is not a parent commit that was created.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+  When merging two branches in incorporates the new branch and the new branch
+  commits are incorporated into the merged branch. Then you delete the old branches
+  and now the commits show up on the merged branch, effectively eliminating it.
+  if you want be sure to see the parent now there could be a merged commit you
+  need to use git show and the commit ID
