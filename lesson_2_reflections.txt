@@ -5,3 +5,9 @@ What happens when you initialize a repository? Why do you need to do it?
 How can you use the staging area to make sure you have one commit per logical change?
 
   The staging are can hold multiple changes that can have different commits
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+  When trying new functionality or experimenting.
+  Allow to have simultaneous version working in parralel without impactin each other
