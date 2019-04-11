@@ -27,3 +27,10 @@ the diagram the way we do?
   and now the commits show up on the merged branch, effectively eliminating it.
   if you want be sure to see the parent now there could be a merged commit you
   need to use git show and the commit ID
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  Automatic merging is much faster and eliminates the chance for a mistake. Plus
+  you get the improvements that have been made to both branches. On the downside
+  you have to address conflicts and resolve them manually. but overall seems like
+  a time saver.
