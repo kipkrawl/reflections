@@ -9,3 +9,16 @@ automatically stay up-to-date with your remote repository?
   you could be making changes locally and Git would over write those changes
   if you were working on the changes before you could push. Also if others had
   made changes you would want to review them before pulling them down.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+
+  branches exist on your local repository. Use when expermenting or going a new
+  direction
+
+  clones are pulled down from GitHub or you could start a new clone on your
+  local machine in a different directory. Use when taking someone elses work or
+  starting someting new off of previos work you've done.
+
+  forks are done on GitHub and is a way to get someone elses work and move to
+  your GitHub repository.
