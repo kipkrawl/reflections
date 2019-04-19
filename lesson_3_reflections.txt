@@ -22,3 +22,10 @@ one instead of another?
 
   forks are done on GitHub and is a way to get someone elses work and move to
   your GitHub repository.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+  You have a point in time that the local copy matched the remote copy. Now you
+  can make changes to the local copy then, when ready, compare to the remote copy
+  to understand conflicts before pushing, pulling or merging.
